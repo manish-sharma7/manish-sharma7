@@ -8,6 +8,8 @@
 - 💬 Ask me about **C, CPP, Python, Golang, DBMS, DSA, System Design, ReactJS, NodeJS etc**
 
 - 📫 You can reach out to me on [Linkedin](https://www.linkedin.com/in/manish-sharma7/)
+  
+- 📫 You can check my [Leetcode Profile](https://leetcode.com/u/ManishKSharma/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-sharma7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="manish-sharma7" /></p>
